@@ -26,7 +26,7 @@ public class Car extends Vehicle {
         return this.seats;
     }
     
-    public int getcurrentGears(){
+    public int getCurrentGears(){
         return this.currentGear;
     }
     public String getType(){
